@@ -1,4 +1,6 @@
 # Moi Register
+## screen shot 
+![Moi register Home](assets/moi-home.png)(assests/moi-home1.png)
 
 A mobile-friendly web app for digitally tracking "Moi" (cash gifts) given at South Indian weddings and family functions — replacing the paper register.
 
